@@ -19,6 +19,10 @@ Twitter Sentiment Analysis is a machine learning-based application designed to a
 - **spaCy** & **NLTK**: Advanced natural language processing tools.
 - **Uvicorn**: ASGI server for running the FastAPI backend.
 - **Requests**: Library for handling HTTP requests.
+- **numPy**: Used for matrix creation and operations.
+- **sciPy**: Used for sparse matrices, Vstacks, and Hstacks.
+- **Pickle**: Used for exporting the model weights.
+- **Pandas**: Library for handling data.
 
 ## **System Architecture**
 ### **Backend (FastAPI)**
